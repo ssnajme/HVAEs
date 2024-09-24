@@ -1,1 +1,1 @@
-# HybridVariationalAutoencoder
+## Hybrid Variational Autoencoders
