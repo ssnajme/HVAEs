@@ -1,4 +1,5 @@
-## Hybrid Variational Autoencoders
+## Hybrid Variational Autoencoders - Currently In Progress
+
 This repository implements Hybrid Variational Autoencoders (HVAEs), generative models tested on various data types including images, text, and multimodal datasets. HVAEs combine the benefits of Variational Autoencoders and latent variable models to effectively handle heterogeneous data.
 
 ## Features
